@@ -1,0 +1,9 @@
+<ion-view view-title="滚动刷新">
+    <ion-content>
+        <ul class="list">
+            <li class="item"  ng-repeat="item in items">{{item}}</li>
+        </ul>
+        <ion-infinite-scroll on-infinite="load_more();">
+        </ion-infinite-scroll>
+    </ion-content>
+</ion-view>

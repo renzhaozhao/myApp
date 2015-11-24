@@ -1,0 +1,9 @@
+<ion-view view-title="下拉刷新">
+    <ion-content>
+        <ion-refresher pulling-text="下拉刷新..." on-refresh="doRefresh()" pulling-icon="ion-ios-arrow-thin-up">
+        </ion-refresher>
+        <ul class="list">
+            <li class="item" ng-repeat="item in items">{{item}}</li>
+        </ul>
+    </ion-content>
+</ion-view>
