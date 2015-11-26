@@ -13,7 +13,7 @@ ion-slide .box img {
 }
 @font-face {
   font-family: 'myfont';
-  src: url('SIMLI.TTF');
+  src: url('fonts/meng.TTF');
 }
 .ziti {
   font-family: 'myfont';
