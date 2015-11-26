@@ -8,11 +8,8 @@
     background-image: linear-gradient(0deg, @red, @red 50%, transparent 50%);
     color: #fff;
 } */
-ion-slide {
-  text-align: center;
-}
-ion-slide .box {
-  height: 100px;
+ion-slide .box img {
+  width: 100%;
 }
 @font-face {
   font-family: 'myfont';
