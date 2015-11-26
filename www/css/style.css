@@ -1,17 +1,23 @@
-/* Empty. Add your own CSS if you like */
-
-ion-slide{
-    text-align:center;
+/** 颜色 */
+/** 字体 */
+/** 喜闻乐见 */
+/** 网页变量 */
+/* .bar.bar-dark {
+    border-color: #111;
+    background-color: @red;
+    background-image: linear-gradient(0deg, @red, @red 50%, transparent 50%);
+    color: #fff;
+} */
+ion-slide {
+  text-align: center;
 }
-ion-slide .box{
-    height:100px;
+ion-slide .box {
+  height: 100px;
 }
-
-
-@font-face{
-    font-family: 'myfont';
-    src: url('SIMLI.TTF');
+@font-face {
+  font-family: 'myfont';
+  src: url('SIMLI.TTF');
 }
-.ziti{
-    font-family: 'myfont';
+.ziti {
+  font-family: 'myfont';
 }
