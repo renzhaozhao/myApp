@@ -49,4 +49,4 @@ $ tree -L 1 .
 
 ## 开发
 
-所以设置正常，运行 `gulp` 即可。需要预览、调式 myApp，打开 `ionic` 服务在 `http://localhost:8100`（端口可变）调试即可。
+所有设置正常，运行 `gulp` 即可。需要预览、调式 myApp，打开 `ionic` 服务在 `http://localhost:8100`（端口可变）调试即可。
