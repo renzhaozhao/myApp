@@ -1,5 +1,5 @@
-/*! 18217411988@163.com (c) 2015
-  Author: Renzhao
+/*! 18217411988@163.com (c) 2015 
+	Author: Renzhao
 */
 angular.module('starter.controllers', ['ionic'])
 
